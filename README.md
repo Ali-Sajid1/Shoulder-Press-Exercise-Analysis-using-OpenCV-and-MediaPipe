@@ -1,0 +1,2 @@
+# Shoulder-Press-Exercise-Analysis-using-OpenCV-and-MediaPipe
+The prime objective and motivation for development of "AI/CV Based Shoulder Press Exercise Analysis" is to present the community, a utility for easy, instant and user-friendly real-time exercise inspection, keeping in view the significance of workout for a healthy lifestyle in the hurry and scurry of life these days. This can also serve as a personal gym trainer with no monthly charges.
